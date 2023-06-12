@@ -13,7 +13,7 @@ export default function Hero() {
         Build Your <br /> Next <span className='text-[#FF3969] underline decoration-[#FF3969]'>Product</span>
          <br /> With Degens.
     </h1>
-    <p className='mt-5 text-neutral-400 max-w-[500px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+    <p className='mt-5 text-neutral-400 max-w-[500px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys</p>
     <div className='mt-10 flex gap-x-20'>
         <button className='bg-[#FF3969] px-4 rounded-lg'>Find out more</button>
         <button className='flex items-center'>

@@ -11,7 +11,7 @@ export default function Manage() {
         </h1>
         <p className="text-neutral-300 mt-10">
           Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's <br /> standard dummy text ever
+          industry. Lorem Ipsum has been the industrys <br /> standard dummy text ever
           since the 1500s
         </p>
       </div>
