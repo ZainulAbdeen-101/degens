@@ -31,7 +31,7 @@ export default function Footer() {
 </footer> */}
 <footer className="footer footer-center p-10 bg-primary text-primary-content">
 <Image src={'/foot.png'
-    } className=' absolute -z-10' width={1223} height={0} alt=''  />
+    } className=' absolute -z-10' width={1223} height={1223} alt=''  />
   <div>
   <Image src={'/logo.png'} width={250} height={250} alt='' />
     <p className="font-bold">
